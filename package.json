@@ -23,7 +23,7 @@
     "postcss": "^8.1.5"
   },
   "dependencies": {
-    "postcss-values-parser": "4.0.0",
+    "postcss-values-parser": "5.0.0",
     "tinycolor2": "1.4.2"
   },
   "devDependencies": {
